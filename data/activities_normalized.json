@@ -1571,5 +1571,18 @@
     "start_date_local": "2026-04-15T20:36:56",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 12664.419921875,
+    "elevation_gain": 64.23999999463558,
+    "id": "22570925581",
+    "moving_time": 10143.0,
+    "name": "Maltepe Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-18T12:06:50",
+    "type": "Walk",
+    "year": 2026
   }
 ]
