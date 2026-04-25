@@ -1610,5 +1610,18 @@
     "start_date_local": "2026-04-23T14:17:48",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 10070.33984375,
+    "elevation_gain": 25.9200000166893,
+    "id": "22644879991",
+    "moving_time": 6110.0,
+    "name": "Bakirk\u00f6y Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-24T18:28:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
