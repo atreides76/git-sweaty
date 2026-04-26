@@ -1623,5 +1623,31 @@
     "start_date_local": "2026-04-24T18:28:23",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 11131.400390625,
+    "elevation_gain": 43.25999999046326,
+    "id": "22656334541",
+    "moving_time": 7878.0,
+    "name": "Maltepe Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-25T16:28:51",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 12616.4501953125,
+    "elevation_gain": 6.370000004768372,
+    "id": "22666131310",
+    "moving_time": 5656.0,
+    "name": "Kadik\u00f6y Paten Kayma",
+    "raw_activity_type": "inline_skating",
+    "raw_type": "inline_skating",
+    "start_date_local": "2026-04-26T13:31:55",
+    "type": "InlineSkate",
+    "year": 2026
   }
 ]

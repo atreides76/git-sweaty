@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:41:47.328374+00:00",
+  "generated_at": "2026-04-26T15:45:03.817818+00:00",
   "years": {
     "2025": {
       "InlineSkate": {
@@ -438,6 +438,17 @@
       }
     },
     "2026": {
+      "InlineSkate": {
+        "2026-04-26": {
+          "activity_ids": [
+            "22666131310"
+          ],
+          "count": 1,
+          "distance": 12616.4501953125,
+          "elevation_gain": 6.370000004768372,
+          "moving_time": 5656.0
+        }
+      },
       "VirtualRide": {
         "2026-03-18": {
           "activity_ids": [
@@ -941,6 +952,15 @@
           "distance": 10070.33984375,
           "elevation_gain": 25.9200000166893,
           "moving_time": 6110.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "22656334541"
+          ],
+          "count": 1,
+          "distance": 11131.400390625,
+          "elevation_gain": 43.25999999046326,
+          "moving_time": 7878.0
         }
       },
       "resort_skiing": {
