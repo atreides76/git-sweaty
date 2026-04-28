@@ -1649,5 +1649,18 @@
     "start_date_local": "2026-04-26T13:31:55",
     "type": "InlineSkate",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 6446.81982421875,
+    "elevation_gain": 32.939999997615814,
+    "id": "22681588447",
+    "moving_time": 4012.0,
+    "name": "Kagithane Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-27T18:21:00",
+    "type": "Walk",
+    "year": 2026
   }
 ]
