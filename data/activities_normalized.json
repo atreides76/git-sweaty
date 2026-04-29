@@ -1662,5 +1662,18 @@
     "start_date_local": "2026-04-27T18:21:00",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 4748.14990234375,
+    "elevation_gain": 35.150000005960464,
+    "id": "22692680571",
+    "moving_time": 2757.0,
+    "name": "Kagithane Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-28T18:26:17",
+    "type": "Walk",
+    "year": 2026
   }
 ]
