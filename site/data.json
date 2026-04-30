@@ -1160,6 +1160,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/22692680571",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 18,
+      "name": "Kagithane Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22705121134",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2141,6 +2150,15 @@
           "distance": 4748.14990234375,
           "elevation_gain": 35.150000005960464,
           "moving_time": 2757.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "22705121134"
+          ],
+          "count": 1,
+          "distance": 4831.4501953125,
+          "elevation_gain": 32.62000000476837,
+          "moving_time": 2839.0
         }
       },
       "resort_skiing": {
@@ -2214,7 +2232,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-04-29T16:43:15.729280+00:00",
+  "generated_at": "2026-04-30T16:22:05.517660+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
