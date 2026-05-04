@@ -1214,6 +1214,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/22748421025",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 17,
+      "name": "Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22752621036",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 20,
+      "name": "Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22752621615",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2227,12 +2245,14 @@
         },
         "2026-05-03": {
           "activity_ids": [
-            "22748421025"
+            "22748421025",
+            "22752621036",
+            "22752621615"
           ],
-          "count": 1,
-          "distance": 1424.1500244140625,
-          "elevation_gain": 4.879999995231628,
-          "moving_time": 939.0
+          "count": 3,
+          "distance": 9561.080200195312,
+          "elevation_gain": 37.62999999523163,
+          "moving_time": 2082.3010001182556
         }
       },
       "resort_skiing": {
@@ -2306,7 +2326,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-05-03T15:51:30.240550+00:00",
+  "generated_at": "2026-05-04T16:48:38.585791+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
