@@ -1259,6 +1259,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/22799545954",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 15,
+      "name": "Maltepe Paten Kayma",
+      "subtype": "inline_skating",
+      "type": "InlineSkate",
+      "url": "https://connect.garmin.com/modern/activity/22822004673",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1708,6 +1717,15 @@
           "distance": 12616.4501953125,
           "elevation_gain": 6.370000004768372,
           "moving_time": 5656.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "22822004673"
+          ],
+          "count": 1,
+          "distance": 21631.1796875,
+          "elevation_gain": 65.12999999523163,
+          "moving_time": 6783.0
         }
       },
       "VirtualRide": {
@@ -2380,7 +2398,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-05-08T16:16:43.881990+00:00",
+  "generated_at": "2026-05-09T15:56:03.991771+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",

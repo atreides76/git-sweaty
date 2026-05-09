@@ -1818,5 +1818,18 @@
     "start_date_local": "2026-05-07T18:26:44",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 21631.1796875,
+    "elevation_gain": 65.12999999523163,
+    "id": "22822004673",
+    "moving_time": 6783.0,
+    "name": "Maltepe Paten Kayma",
+    "raw_activity_type": "inline_skating",
+    "raw_type": "inline_skating",
+    "start_date_local": "2026-05-09T15:26:28",
+    "type": "InlineSkate",
+    "year": 2026
   }
 ]
