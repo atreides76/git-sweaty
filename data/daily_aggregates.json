@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T17:03:05.917795+00:00",
+  "generated_at": "2026-05-15T16:52:53.202229+00:00",
   "years": {
     "2025": {
       "InlineSkate": {
@@ -1064,6 +1064,24 @@
           "distance": 4330.27978515625,
           "elevation_gain": 82.12999999523163,
           "moving_time": 2126.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "22885099647"
+          ],
+          "count": 1,
+          "distance": 13241.1904296875,
+          "elevation_gain": 24.740000009536743,
+          "moving_time": 6704.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "22891515258"
+          ],
+          "count": 1,
+          "distance": 1624.8900146484375,
+          "elevation_gain": 1.0299999993294477,
+          "moving_time": 1006.0
         }
       },
       "resort_skiing": {

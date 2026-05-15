@@ -1844,5 +1844,31 @@
     "start_date_local": "2026-05-10T16:56:09",
     "type": "InlineSkate",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 13241.1904296875,
+    "elevation_gain": 24.740000009536743,
+    "id": "22885099647",
+    "moving_time": 6704.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-14T18:54:49",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 1624.8900146484375,
+    "elevation_gain": 1.0299999993294477,
+    "id": "22891515258",
+    "moving_time": 1006.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-15T18:44:32",
+    "type": "Walk",
+    "year": 2026
   }
 ]
