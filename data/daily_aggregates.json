@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:59:56.709695+00:00",
+  "generated_at": "2026-05-17T16:00:39.241251+00:00",
   "years": {
     "2025": {
       "InlineSkate": {
@@ -465,6 +465,24 @@
           "distance": 7370.18994140625,
           "elevation_gain": 3.560000002384186,
           "moving_time": 2897.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "22903470043"
+          ],
+          "count": 1,
+          "distance": 13769.1904296875,
+          "elevation_gain": 12.75,
+          "moving_time": 5012.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "22912387193"
+          ],
+          "count": 1,
+          "distance": 10017.7197265625,
+          "elevation_gain": 14.930000007152557,
+          "moving_time": 3518.0
         }
       },
       "VirtualRide": {
