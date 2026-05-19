@@ -1313,6 +1313,15 @@
       "type": "InlineSkate",
       "url": "https://connect.garmin.com/modern/activity/22912387193",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 10,
+      "name": "Sisli Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22934261171",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2415,6 +2424,15 @@
           "distance": 1624.8900146484375,
           "elevation_gain": 1.0299999993294477,
           "moving_time": 1006.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "22934261171"
+          ],
+          "count": 1,
+          "distance": 29404.140625,
+          "elevation_gain": 212.20000000298023,
+          "moving_time": 6713.019000291824
         }
       },
       "resort_skiing": {
@@ -2488,7 +2506,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-05-18T17:30:43.848294+00:00",
+  "generated_at": "2026-05-19T17:39:24.885868+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
