@@ -1340,6 +1340,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23022962238",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 18,
+      "name": "Saint Petersburg Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23036786725",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 9,
+      "name": "Saint Petersburg Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23046020001",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2469,6 +2487,24 @@
           "distance": 14540.990234375,
           "elevation_gain": 74.34999999403954,
           "moving_time": 8124.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "23036786725"
+          ],
+          "count": 1,
+          "distance": 27085.55078125,
+          "elevation_gain": 69.34000000357628,
+          "moving_time": 11758.460999965668
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "23046020001"
+          ],
+          "count": 1,
+          "distance": 28611.08984375,
+          "elevation_gain": 200.95999997854233,
+          "moving_time": 17655.0
         }
       },
       "resort_skiing": {
@@ -2542,7 +2578,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-05-27T17:57:30.213375+00:00",
+  "generated_at": "2026-05-28T18:13:30.329533+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",

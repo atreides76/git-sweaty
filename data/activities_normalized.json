@@ -1935,5 +1935,31 @@
     "start_date_local": "2026-05-26T17:25:53",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 27085.55078125,
+    "elevation_gain": 69.34000000357628,
+    "id": "23036786725",
+    "moving_time": 11758.460999965668,
+    "name": "Saint Petersburg Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-27T18:19:45",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 28611.08984375,
+    "elevation_gain": 200.95999997854233,
+    "id": "23046020001",
+    "moving_time": 17655.0,
+    "name": "Saint Petersburg Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-28T09:29:15",
+    "type": "Walk",
+    "year": 2026
   }
 ]
