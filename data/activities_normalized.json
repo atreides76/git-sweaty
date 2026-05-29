@@ -1961,5 +1961,18 @@
     "start_date_local": "2026-05-28T09:29:15",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 76488.171875,
+    "elevation_gain": 315.81999999284744,
+    "id": "23059693191",
+    "moving_time": 24444.124000549316,
+    "name": "Saint Petersburg Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-29T07:30:48",
+    "type": "Walk",
+    "year": 2026
   }
 ]
