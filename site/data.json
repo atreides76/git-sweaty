@@ -1385,6 +1385,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23095418525",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 20,
+      "name": "Sisli Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23107862889",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2559,6 +2568,15 @@
           "distance": 3225.080078125,
           "elevation_gain": 21.200000002980232,
           "moving_time": 1434.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "23107862889"
+          ],
+          "count": 1,
+          "distance": 6578.72021484375,
+          "elevation_gain": 79.64999997615814,
+          "moving_time": 5168.0
         }
       },
       "resort_skiing": {
@@ -2632,7 +2650,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-06-02T18:41:26.232089+00:00",
+  "generated_at": "2026-06-03T18:46:32.484343+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
