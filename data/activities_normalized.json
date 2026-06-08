@@ -2026,5 +2026,18 @@
     "start_date_local": "2026-06-06T11:54:14",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 6443.97998046875,
+    "elevation_gain": 65.56999999284744,
+    "id": "23168718516",
+    "moving_time": 4512.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-07T19:33:33",
+    "type": "Walk",
+    "year": 2026
   }
 ]
