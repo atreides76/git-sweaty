@@ -2119,6 +2119,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23374703972",
+    "moving_time": 9.557000160217285,
+    "name": "Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-22T06:00:57",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
     "date": "2026-06-23",
     "distance": 2025.260009765625,
     "elevation_gain": 10.189999997615814,
