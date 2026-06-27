@@ -2143,5 +2143,18 @@
     "start_date_local": "2026-06-23T19:40:55",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 1631.199951171875,
+    "elevation_gain": 5.649999976158142,
+    "id": "23388072709",
+    "moving_time": 1156.0,
+    "name": "Beyoglu Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-26T20:06:21",
+    "type": "Walk",
+    "year": 2026
   }
 ]
