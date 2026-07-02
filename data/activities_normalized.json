@@ -2182,5 +2182,31 @@
     "start_date_local": "2026-06-30T18:27:30",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 5532.85009765625,
+    "elevation_gain": 156.88999998569489,
+    "id": "23446265590",
+    "moving_time": 1829.0,
+    "name": "Kadik\u00f6y Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-01T19:51:11",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 4062.75,
+    "elevation_gain": 45.30000001192093,
+    "id": "23452169837",
+    "moving_time": 1276.0,
+    "name": "Esenler Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-02T12:01:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
