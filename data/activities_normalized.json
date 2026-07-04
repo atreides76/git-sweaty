@@ -2208,5 +2208,31 @@
     "start_date_local": "2026-07-02T12:01:23",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 2026.5799560546875,
+    "elevation_gain": 4.46000000834465,
+    "id": "23467302872",
+    "moving_time": 273.0,
+    "name": "Kagithane Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-03T18:51:56",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 2742.64990234375,
+    "elevation_gain": 21.649999976158142,
+    "id": "23474975502",
+    "moving_time": 1871.0,
+    "name": "\u00dcsk\u00fcdar Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-04T13:05:07",
+    "type": "Walk",
+    "year": 2026
   }
 ]

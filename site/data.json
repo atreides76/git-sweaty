@@ -1529,6 +1529,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23452169837",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 18,
+      "name": "Kagithane Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23467302872",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 13,
+      "name": "\u00dcsk\u00fcdar Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23474975502",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2839,6 +2857,24 @@
           "distance": 4062.75,
           "elevation_gain": 45.30000001192093,
           "moving_time": 1276.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "23467302872"
+          ],
+          "count": 1,
+          "distance": 2026.5799560546875,
+          "elevation_gain": 4.46000000834465,
+          "moving_time": 273.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "23474975502"
+          ],
+          "count": 1,
+          "distance": 2742.64990234375,
+          "elevation_gain": 21.649999976158142,
+          "moving_time": 1871.0
         }
       },
       "resort_skiing": {
@@ -2912,7 +2948,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-07-03T16:26:48.050298+00:00",
+  "generated_at": "2026-07-04T16:04:56.402098+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
