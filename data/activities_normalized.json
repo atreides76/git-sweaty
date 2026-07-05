@@ -2234,5 +2234,31 @@
     "start_date_local": "2026-07-04T13:05:07",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 13553.6396484375,
+    "elevation_gain": 209.77999997138977,
+    "id": "23481915834",
+    "moving_time": 9104.0,
+    "name": "Istanbul Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-04T20:51:56",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 3532.280029296875,
+    "elevation_gain": 8.889999985694885,
+    "id": "23486974247",
+    "moving_time": 2265.0,
+    "name": "Fatih Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-05T13:36:43",
+    "type": "Walk",
+    "year": 2026
   }
 ]
