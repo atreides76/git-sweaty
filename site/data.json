@@ -1664,6 +1664,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23689411926",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 12,
+      "name": "Esenler Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/23700742647",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3093,6 +3102,15 @@
           "distance": 3257.60009765625,
           "elevation_gain": 34.860000014305115,
           "moving_time": 1858.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "23700742647"
+          ],
+          "count": 1,
+          "distance": 2399.780029296875,
+          "elevation_gain": 45.439999997615814,
+          "moving_time": 1478.0
         }
       },
       "resort_skiing": {
@@ -3166,7 +3184,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-07-22T16:20:53.154923+00:00",
+  "generated_at": "2026-07-23T16:37:25.849648+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
