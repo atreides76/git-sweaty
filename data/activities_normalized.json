@@ -2442,5 +2442,18 @@
     "start_date_local": "2026-07-26T16:24:48",
     "type": "InlineSkate",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 1617.5899658203125,
+    "elevation_gain": 41.639999985694885,
+    "id": "23753750343",
+    "moving_time": 1251.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-27T19:33:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
