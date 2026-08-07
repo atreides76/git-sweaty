@@ -2507,5 +2507,31 @@
     "start_date_local": "2026-08-03T18:39:03",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 3382.409912109375,
+    "elevation_gain": 17.52999997138977,
+    "id": "23866120555",
+    "moving_time": 2248.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-05T18:41:06",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 6172.81005859375,
+    "elevation_gain": 190.15000000596046,
+    "id": "23879504601",
+    "moving_time": 5489.0,
+    "name": "Kagithane Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-06T20:07:33",
+    "type": "Walk",
+    "year": 2026
   }
 ]
