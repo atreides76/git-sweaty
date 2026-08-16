@@ -2598,5 +2598,44 @@
     "start_date_local": "2026-08-14T18:10:25",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 2329.260009765625,
+    "elevation_gain": 22.810000002384186,
+    "id": "23991816610",
+    "moving_time": 4578.0,
+    "name": "Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-15T23:50:36",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 11.930000305175781,
+    "elevation_gain": 0.0,
+    "id": "23991917913",
+    "moving_time": 1095.5830078125,
+    "name": "Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-16T07:00:37",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 2490.0,
+    "elevation_gain": 0.0,
+    "id": "23992101200",
+    "moving_time": 25.0,
+    "name": "Guangzhou Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-16T07:53:03",
+    "type": "Walk",
+    "year": 2026
   }
 ]
