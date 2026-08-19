@@ -2637,5 +2637,18 @@
     "start_date_local": "2026-08-16T07:53:03",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 2211.7099609375,
+    "elevation_gain": 13.550000011920929,
+    "id": "24030632893",
+    "moving_time": 357.0,
+    "name": "Nasu Town Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-19T10:44:55",
+    "type": "Walk",
+    "year": 2026
   }
 ]

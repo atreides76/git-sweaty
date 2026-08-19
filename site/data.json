@@ -1826,6 +1826,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/23992101200",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 10,
+      "name": "Nasu Town Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24030632893",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3409,6 +3418,15 @@
           "distance": 2501.930000305176,
           "elevation_gain": 0.0,
           "moving_time": 1120.5830078125
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "24030632893"
+          ],
+          "count": 1,
+          "distance": 2211.7099609375,
+          "elevation_gain": 13.550000011920929,
+          "moving_time": 357.0
         }
       },
       "resort_skiing": {
@@ -3482,7 +3500,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-08-18T15:33:20.406713+00:00",
+  "generated_at": "2026-08-19T15:33:00.973377+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
