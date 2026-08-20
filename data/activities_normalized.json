@@ -2650,5 +2650,18 @@
     "start_date_local": "2026-08-19T10:44:55",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 2456.179931640625,
+    "elevation_gain": 33.03999999910593,
+    "id": "24044685686",
+    "moving_time": 1148.0,
+    "name": "Urayasu City Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-20T12:30:30",
+    "type": "Walk",
+    "year": 2026
   }
 ]

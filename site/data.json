@@ -1835,6 +1835,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24030632893",
       "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 12,
+      "name": "Urayasu City Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24044685686",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3427,6 +3436,15 @@
           "distance": 2211.7099609375,
           "elevation_gain": 13.550000011920929,
           "moving_time": 357.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "24044685686"
+          ],
+          "count": 1,
+          "distance": 2456.179931640625,
+          "elevation_gain": 33.03999999910593,
+          "moving_time": 1148.0
         }
       },
       "resort_skiing": {
@@ -3500,7 +3518,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-08-19T15:33:00.973377+00:00",
+  "generated_at": "2026-08-20T15:35:26.692818+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
