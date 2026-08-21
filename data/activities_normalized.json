@@ -2663,5 +2663,18 @@
     "start_date_local": "2026-08-20T12:30:30",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 7254.56005859375,
+    "elevation_gain": 56.94999998807907,
+    "id": "24060398910",
+    "moving_time": 4005.0,
+    "name": "Gotenba City Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-21T14:09:34",
+    "type": "Walk",
+    "year": 2026
   }
 ]
