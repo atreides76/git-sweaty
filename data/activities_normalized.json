@@ -2767,5 +2767,31 @@
     "start_date_local": "2026-09-01T19:33:16",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 8676.0703125,
+    "elevation_gain": 21.62000000476837,
+    "id": "24214736048",
+    "moving_time": 5710.0,
+    "name": "Aksaray Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-02T19:53:48",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 1614.56005859375,
+    "elevation_gain": 8.839999973773956,
+    "id": "24224952210",
+    "moving_time": 1197.0,
+    "name": "Aksaray Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-03T18:38:37",
+    "type": "Walk",
+    "year": 2026
   }
 ]

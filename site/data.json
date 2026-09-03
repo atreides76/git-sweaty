@@ -1916,6 +1916,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24200339303",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 19,
+      "name": "Aksaray Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24214736048",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 18,
+      "name": "Aksaray Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24224952210",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3581,6 +3599,24 @@
           "distance": 6797.43994140625,
           "elevation_gain": 127.9200000166893,
           "moving_time": 3950.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "24214736048"
+          ],
+          "count": 1,
+          "distance": 8676.0703125,
+          "elevation_gain": 21.62000000476837,
+          "moving_time": 5710.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "24224952210"
+          ],
+          "count": 1,
+          "distance": 1614.56005859375,
+          "elevation_gain": 8.839999973773956,
+          "moving_time": 1197.0
         }
       },
       "resort_skiing": {
@@ -3654,7 +3690,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-09-02T18:28:12.170359+00:00",
+  "generated_at": "2026-09-03T18:24:07.178005+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
