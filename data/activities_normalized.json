@@ -2793,5 +2793,18 @@
     "start_date_local": "2026-09-03T18:38:37",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 5365.990234375,
+    "elevation_gain": 5.029999999329448,
+    "id": "24227650938",
+    "moving_time": 942.7739989757538,
+    "name": "Aksaray Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-03T22:16:50",
+    "type": "Walk",
+    "year": 2026
   }
 ]
