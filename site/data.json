@@ -1952,6 +1952,33 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24239224844",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 16,
+      "name": "Maltepe Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24250762017",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 15,
+      "name": "Bakirk\u00f6y Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24260911506",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 18,
+      "name": "Sisli Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24261981651",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3645,6 +3672,25 @@
           "distance": 8013.06005859375,
           "elevation_gain": 39.349999994039536,
           "moving_time": 4843.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "24250762017"
+          ],
+          "count": 1,
+          "distance": 10281.9296875,
+          "elevation_gain": 19.589999973773956,
+          "moving_time": 6868.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "24260911506",
+            "24261981651"
+          ],
+          "count": 2,
+          "distance": 9152.0400390625,
+          "elevation_gain": 49.83000001311302,
+          "moving_time": 4270.0
         }
       },
       "resort_skiing": {
@@ -3718,7 +3764,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-09-05T17:12:20.624064+00:00",
+  "generated_at": "2026-09-06T17:31:52.902595+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",

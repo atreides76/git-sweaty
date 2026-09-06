@@ -2819,5 +2819,44 @@
     "start_date_local": "2026-09-04T21:25:13",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 10281.9296875,
+    "elevation_gain": 19.589999973773956,
+    "id": "24250762017",
+    "moving_time": 6868.0,
+    "name": "Maltepe Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-05T16:56:31",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 6499.52001953125,
+    "elevation_gain": 45.28999999165535,
+    "id": "24260911506",
+    "moving_time": 2801.0,
+    "name": "Bakirk\u00f6y Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-06T15:43:15",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 2652.52001953125,
+    "elevation_gain": 4.540000021457672,
+    "id": "24261981651",
+    "moving_time": 1469.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-06T18:20:58",
+    "type": "Walk",
+    "year": 2026
   }
 ]
