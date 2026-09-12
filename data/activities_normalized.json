@@ -2871,5 +2871,31 @@
     "start_date_local": "2026-09-11T19:41:41",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 4508.27978515625,
+    "elevation_gain": 32.37999999523163,
+    "id": "24334524516",
+    "moving_time": 3620.0,
+    "name": "Istanbul Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-12T14:13:04",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 1942.43994140625,
+    "elevation_gain": 15.5799999833107,
+    "id": "24336821740",
+    "moving_time": 246.0,
+    "name": "Bakirk\u00f6y Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-12T18:00:09",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -1988,6 +1988,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24324525268",
       "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 14,
+      "name": "Istanbul Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24334524516",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 18,
+      "name": "Bakirk\u00f6y Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24336821740",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3709,6 +3727,16 @@
           "distance": 4293.35009765625,
           "elevation_gain": 21.37000000476837,
           "moving_time": 2717.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "24334524516",
+            "24336821740"
+          ],
+          "count": 2,
+          "distance": 6450.7197265625,
+          "elevation_gain": 47.95999997854233,
+          "moving_time": 3866.0
         }
       },
       "resort_skiing": {
@@ -3782,7 +3810,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-09-11T18:14:21.430198+00:00",
+  "generated_at": "2026-09-12T17:42:04.812208+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
