@@ -2962,5 +2962,44 @@
     "start_date_local": "2026-09-17T18:59:15",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 555.4099731445312,
+    "elevation_gain": 44.05000000074506,
+    "id": "24424948223",
+    "moving_time": 434.0,
+    "name": "Esenyurt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-19T19:40:04",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 3338.610107421875,
+    "elevation_gain": 7.119999997317791,
+    "id": "24432774521",
+    "moving_time": 2432.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-20T14:48:11",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 10848.6796875,
+    "elevation_gain": 11.5799999833107,
+    "id": "24434757667",
+    "moving_time": 3840.0,
+    "name": "Maltepe Paten Kayma",
+    "raw_activity_type": "inline_skating",
+    "raw_type": "inline_skating",
+    "start_date_local": "2026-09-20T17:57:12",
+    "type": "InlineSkate",
+    "year": 2026
   }
 ]

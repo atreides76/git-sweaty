@@ -2051,6 +2051,33 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24400700658",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 19,
+      "name": "Esenyurt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24424948223",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 14,
+      "name": "Sisli Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24432774521",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 17,
+      "name": "Maltepe Paten Kayma",
+      "subtype": "inline_skating",
+      "type": "InlineSkate",
+      "url": "https://connect.garmin.com/modern/activity/24434757667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2554,6 +2581,15 @@
           "distance": 17409.830078125,
           "elevation_gain": 11.150000005960464,
           "moving_time": 6662.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "24434757667"
+          ],
+          "count": 1,
+          "distance": 10848.6796875,
+          "elevation_gain": 11.5799999833107,
+          "moving_time": 3840.0
         }
       },
       "VirtualRide": {
@@ -3819,6 +3855,24 @@
           "distance": 5162.169921875,
           "elevation_gain": 39.58999998867512,
           "moving_time": 3021.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "24424948223"
+          ],
+          "count": 1,
+          "distance": 555.4099731445312,
+          "elevation_gain": 44.05000000074506,
+          "moving_time": 434.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "24432774521"
+          ],
+          "count": 1,
+          "distance": 3338.610107421875,
+          "elevation_gain": 7.119999997317791,
+          "moving_time": 2432.0
         }
       },
       "resort_skiing": {
@@ -3892,7 +3946,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-09-19T17:49:48.135605+00:00",
+  "generated_at": "2026-09-20T18:04:17.326725+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
