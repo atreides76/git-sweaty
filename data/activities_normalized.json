@@ -3092,5 +3092,18 @@
     "start_date_local": "2026-10-01T18:38:06",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 5398.3798828125,
+    "elevation_gain": 43.55000001192093,
+    "id": "24607562727",
+    "moving_time": 6384.0,
+    "name": "Silivri Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-03T18:44:23",
+    "type": "Walk",
+    "year": 2026
   }
 ]
