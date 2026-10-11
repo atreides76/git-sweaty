@@ -3131,5 +3131,31 @@
     "start_date_local": "2026-10-08T18:44:53",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 1748.4599609375,
+    "elevation_gain": 16.72000002861023,
+    "id": "24678692281",
+    "moving_time": 1339.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-10T13:45:50",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 8153.02001953125,
+    "elevation_gain": 19.75,
+    "id": "24688459892",
+    "moving_time": 2431.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-11T14:24:20",
+    "type": "Walk",
+    "year": 2026
   }
 ]
