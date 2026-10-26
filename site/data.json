@@ -2240,6 +2240,33 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24807545614",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 10,
+      "name": "Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24851302247",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 8,
+      "name": "Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24851302599",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 8,
+      "name": "Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/24861005530",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4181,6 +4208,33 @@
           "distance": 8415.710021972656,
           "elevation_gain": 65.92999997735023,
           "moving_time": 4227.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "24851302247"
+          ],
+          "count": 1,
+          "distance": 5462.89013671875,
+          "elevation_gain": 76.62999999523163,
+          "moving_time": 8126.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "24851302599"
+          ],
+          "count": 1,
+          "distance": 11521.4296875,
+          "elevation_gain": 219.2199999988079,
+          "moving_time": 14464.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "24861005530"
+          ],
+          "count": 1,
+          "distance": 15443.419921875,
+          "elevation_gain": 441.3799999952316,
+          "moving_time": 21801.0
         }
       },
       "resort_skiing": {
@@ -4254,7 +4308,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-10-25T18:13:43.217916+00:00",
+  "generated_at": "2026-10-26T20:20:28.110666+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
