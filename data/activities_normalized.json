@@ -3300,5 +3300,18 @@
     "start_date_local": "2026-10-28T13:13:31",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 3753.360107421875,
+    "elevation_gain": 26.070000000298023,
+    "id": "24917615495",
+    "moving_time": 1406.0,
+    "name": "Kadik\u00f6y Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-31T16:07:08",
+    "type": "Walk",
+    "year": 2026
   }
 ]
