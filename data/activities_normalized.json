@@ -3313,5 +3313,18 @@
     "start_date_local": "2026-10-31T16:07:08",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 11803.48046875,
+    "elevation_gain": 132.40999999642372,
+    "id": "24926075809",
+    "moving_time": 6826.0,
+    "name": "Fatih Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-01T08:39:01",
+    "type": "Walk",
+    "year": 2026
   }
 ]
