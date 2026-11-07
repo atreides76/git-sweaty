@@ -3326,5 +3326,18 @@
     "start_date_local": "2026-11-01T08:39:01",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 13872.16015625,
+    "elevation_gain": 84.68000000715256,
+    "id": "25001165661",
+    "moving_time": 9596.0,
+    "name": "Tirana Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-07T14:12:03",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -2303,6 +2303,15 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/24926075809",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 14,
+      "name": "Tirana Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25001165661",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4307,6 +4316,15 @@
           "distance": 11803.48046875,
           "elevation_gain": 132.40999999642372,
           "moving_time": 6826.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "25001165661"
+          ],
+          "count": 1,
+          "distance": 13872.16015625,
+          "elevation_gain": 84.68000000715256,
+          "moving_time": 9596.0
         }
       },
       "resort_skiing": {
@@ -4380,7 +4398,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-11-06T20:43:33.771128+00:00",
+  "generated_at": "2026-11-07T19:16:41.139547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",
