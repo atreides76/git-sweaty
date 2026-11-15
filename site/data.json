@@ -2312,6 +2312,24 @@
       "type": "Walk",
       "url": "https://connect.garmin.com/modern/activity/25001165661",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 13,
+      "name": "Sisli Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25082940756",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 12,
+      "name": "Sariyer Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/25089036977",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4325,6 +4343,24 @@
           "distance": 13872.16015625,
           "elevation_gain": 84.68000000715256,
           "moving_time": 9596.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "25082940756"
+          ],
+          "count": 1,
+          "distance": 6740.6201171875,
+          "elevation_gain": 37.56999999284744,
+          "moving_time": 4933.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "25089036977"
+          ],
+          "count": 1,
+          "distance": 27241.41015625,
+          "elevation_gain": 112.37999999523163,
+          "moving_time": 18697.457000732422
         }
       },
       "resort_skiing": {
@@ -4398,7 +4434,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
-  "generated_at": "2026-11-14T19:47:34.207064+00:00",
+  "generated_at": "2026-11-15T20:12:45.034247+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/ac65a509-aed0-45a9-ae6d-a9c6b35aa092",
   "repo": "atreides76/git-sweaty",

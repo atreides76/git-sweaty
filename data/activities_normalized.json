@@ -3339,5 +3339,31 @@
     "start_date_local": "2026-11-07T14:12:03",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 6740.6201171875,
+    "elevation_gain": 37.56999999284744,
+    "id": "25082940756",
+    "moving_time": 4933.0,
+    "name": "Sisli Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-14T13:40:19",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 27241.41015625,
+    "elevation_gain": 112.37999999523163,
+    "id": "25089036977",
+    "moving_time": 18697.457000732422,
+    "name": "Sariyer Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-15T12:04:49",
+    "type": "Walk",
+    "year": 2026
   }
 ]
